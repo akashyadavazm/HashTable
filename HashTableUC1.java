@@ -42,9 +42,7 @@ public class HashTableUC1<K, V> {
 
 		ht.addWords(1, "To");
 		ht.addWords(2, "be");
-		ht.display();
 		ht.addWords(3, "or");
-		ht.display();
 		ht.addWords(4, "not");
 		ht.addWords(5, "to");
 		ht.addWords(6, "be");
